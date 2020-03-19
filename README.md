@@ -1,2 +1,2 @@
 # IrisNeuralNetworkInVk
-We made easy neural network and we put it in VK.
+We made easy neural network and put it in VK.
